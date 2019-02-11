@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.test.jenkins.TestRunner"/>
+      <class name="com.test.jenkins.Test2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
